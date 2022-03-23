@@ -170,3 +170,21 @@ Attendees: Steven Royer, Ted Streete, Michal Kalderon, Mark Sanders, Dan Daly
    * Big Springs Canyon and Mt Evans in place
    * Access control in place
    * Targeting two weeks for schedule
+
+## 3/23/2022:
+Attendees: Steven Royer, Gene Bagwell, Shafiq Abedin, Tim Worsley, Michal Kalderon, Lionel P
+* Follow-ups:
+   * Steve: Started OS discussion in slack: https://opi-project.slack.com/archives/C033E418VCK/p1648048161645019
+   * Steve: Update working group description: in progress
+   * Steve: Migrate minutes to github: https://github.com/Diamond-Bluff/dbluff-poc/pull/1
+   * Tim: Still working on providing firewall PoC documentation
+* What's the difference between this group and the use cases group?
+   * Uses cases group to define use cases
+   * PoC group to implement them
+* New actions:
+   * Tim to provide Dockerfiles for firewall PoC application and tests
+   * Tim to publish containers to dockerhub or equivalent
+   * Michal to investigate defining VM emulating DPU
+   * Steve to add people to the github org for access to private repos
+* Task list to be managed via github issues in the poc repo
+* Suggestion to move to meeting every other week instead of weekly
