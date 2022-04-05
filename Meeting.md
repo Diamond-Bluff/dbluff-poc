@@ -188,3 +188,12 @@ Attendees: Steven Royer, Gene Bagwell, Shafiq Abedin, Tim Worsley, Michal Kalder
    * Steve to add people to the github org for access to private repos
 * Task list to be managed via github issues in the poc repo
 * Suggestion to move to meeting every other week instead of weekly
+
+## 3/30/2022:
+Attendees: Steven Royer, Venkat Pullela, Lionel P, Laura JH, Michal Kalderon, Shafiq Abedin, Mark Sanders
+* Meeting cadence
+   * Moving to every other week meetings
+   * Meeting April 6
+* Review:
+   * https://github.com/Diamond-Bluff/dbluff-poc/pull/2
+
